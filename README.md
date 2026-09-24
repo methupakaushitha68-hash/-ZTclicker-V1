@@ -1,4 +1,4 @@
-# 💎 ZTclicker (v1.0)
+# 💎 ZTclicker V1
 
 A sleek, lightweight, and modern desktop auto-clicker built with **Python** and **CustomTkinter**. Designed for gamers and power users who need reliable left and right-clicking with customizable hotkeys and a clean dark-mode user interface.
 
