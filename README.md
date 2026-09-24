@@ -1,6 +1,11 @@
-# 💎 ZTclicker V1
+# 💎 ZTclicker (v1.0)
 
-A sleek, lightweight, and simple desktop auto-clicker built with **Python** and **CustomTkinter**. Designed for gamers and power users who need reliable left and right-clicking with customizable hotkeys and a clean dark-mode user interface.
+A sleek, lightweight, and modern desktop auto-clicker built with **Python** and **CustomTkinter**. Designed for gamers and power users who need reliable left and right-clicking with customizable hotkeys and a clean dark-mode user interface.
+
+![GitHub Release](https://img.shields.io/badge/version-1.0-blue.svg)
+![Python](https://img.shields.io/badge/python-3.8%2B-green.svg)
+![Platform](https://img.shields.io/badge/platform-Windows-orange.svg)
+
 ---
 
 ## ✨ Features
@@ -17,10 +22,11 @@ A sleek, lightweight, and simple desktop auto-clicker built with **Python** and 
 ## 🚀 Default Hotkeys
 
 | Action | Default Key | Description |
-| **Toggle Left Click**  - `R` - Starts/Stops Left Auto-Clicker 
-| **Toggle Right Click** - `F` - Starts/Stops Right Auto-Clicker 
-| **Stop All**           - `X` - Instantly stops all active clickers 
-| **Hide / Show Window** - `H` - Hides or restores the application window 
+| :--- | :--- | :--- |
+| **Toggle Left Click** | `R` | Starts/Stops Left Auto-Clicker |
+| **Toggle Right Click** | `F` | Starts/Stops Right Auto-Clicker |
+| **Stop All** | `X` | Instantly stops all active clickers |
+| **Hide / Show Window** | `H` | Hides or restores the application window |
 
 ---
 
@@ -55,7 +61,7 @@ We are constantly improving ZTclicker! Here is what's coming in future updates:
 
 * **Discord:** [Join our Discord Server](https://discord.gg/jyTQhSZ6mw)
 * **Email Support:** support@zoruxtech.online
-* **Website:** zoruxtech.online
+* **Website:** Powered by Zorux Technologies
 
 ---
 *If you find this tool useful, please consider giving it a ⭐ on GitHub!*
